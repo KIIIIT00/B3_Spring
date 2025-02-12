@@ -7,10 +7,18 @@
 
 <h2>[資料リンク]</h2>
 <ul>
-  <li>MNISTデータセットを利用した手書き数字分類</li>
+  <li>MNISTデータセットを用いた手書き数字分類</li>
   <ul>
     <li>
       <a href="https://colab.research.google.com/github/KIIIIT00/B3_Spring/blob/main/MNIST_ML.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+      </a>
+    </li>
+  </ul>
+  <li>ノイズを付けたMNISTデータセットを用いた手書き数字分類</li>
+  <ul>
+    <li>
+      <a href="https://colab.research.google.com/github/KIIIIT00/B3_Spring/blob/main/MNIST_Noise.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
       </a>
     </li>
