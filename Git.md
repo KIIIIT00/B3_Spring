@@ -1,6 +1,8 @@
 # Git
 ## リポジトリのクローン
-``` $git clone git@github.com:KIIIIT00/B3_Spring.git ```
+``` 
+$git clone git@github.com:KIIIIT00/B3_Spring.git
+ ```
 
 ## ファイルのステージング，コミット，プッシュ
 ```
