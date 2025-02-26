@@ -2,7 +2,7 @@
   B3_Spring
 </h1>
 
- <h2>[概要]</h2>
+ <h2>概要</h2>
  このリポジトリは，春の講習会で使用する資料をまとめたものである．
 
 <h2>[資料リンク]</h2>
@@ -33,12 +33,12 @@
   </ul>
 </ul>
 
-## [事前準備]
+## 事前準備
 - Googleアカウント
 - [GitWiki Preparation](https://github.com/KIIIIT00/B3_Spring/wiki/Preparation) に従ってください
 
 
-## [使用方法]
+## 使用方法
 - Google Colaboratoryのサイトにアクセス</li>
   <li>Google Colaboratoryの設定確認・変更</li>
   <ul>
