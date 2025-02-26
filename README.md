@@ -39,12 +39,9 @@
 
 
 ## 使用方法
-- Google Colaboratoryのサイトにアクセス</li>
-  <li>Google Colaboratoryの設定確認・変更</li>
-  <ul>
-    <li>GPUを用いて処理を行うために，メニューバーの「ランタイム」→「ランタイムのタイプを変更」からハードウェアアクセラレータをGPUに変更する．</li>
-  </ul>
-</ul>
+- Google Colaboratoryのサイトにアクセス
+- Google Colaboratoryの設定確認・変更
+  - GPUを用いて処理を行うために，メニューバーの「ランタイム」→「ランタイムのタイプを変更」からハードウェアアクセラレータをGPUに変更する．
 
 ## 共同開発ルール
 詳細なルールは [GitHub Wiki](https://github.com/KIIIIT00/B3_Spring/wiki) をご覧ください。
