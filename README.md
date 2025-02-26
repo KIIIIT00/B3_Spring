@@ -23,6 +23,14 @@
       </a>
     </li>
   </ul>
+  <li>CycleGANを用いた画像変換</li>
+  <ul>
+    <li>
+      <a href="https://colab.research.google.com/github/KIIIIT00/B3_Spring/blob/main/CycleGAN.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+      </a>
+    </li>
+  </ul>
 </ul>
 
 <h2>[用意するもの]</h2>
