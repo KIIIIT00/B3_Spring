@@ -47,4 +47,6 @@
   </ul>
 </ul>
 
+## 共同開発ルール
+詳細なルールは [GitHub Wiki](https://github.com/KIIIIT00/B3_Spring/wiki) をご覧ください。
 &copy; KIIII
