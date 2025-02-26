@@ -39,4 +39,4 @@
   </ul>
 </ul>
 
-&copy; KIIIIT00
+&copy; KIIII
