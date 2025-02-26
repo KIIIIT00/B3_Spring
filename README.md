@@ -2,7 +2,7 @@
   B3_Spring
 </h1>
 
- <h2>[概要]</h2>
+ <h2>概要</h2>
  このリポジトリは，春の講習会で使用する資料をまとめたものである．
 
 <h2>[資料リンク]</h2>
@@ -33,18 +33,20 @@
   </ul>
 </ul>
 
-<h2>[用意するもの]</h2>
-<ul>
-  <li>Googleアカウント</li>
-</ul>
+## 事前準備
+- Googleアカウント
+- [GitWiki Preparation](https://github.com/KIIIIT00/B3_Spring/wiki/Preparation) に従ってください
 
-<h2>[使用方法]</h2>
-<ul>
-  <li>Google Colaboratoryのサイトにアクセス</li>
+
+## 使用方法
+- Google Colaboratoryのサイトにアクセス</li>
   <li>Google Colaboratoryの設定確認・変更</li>
   <ul>
     <li>GPUを用いて処理を行うために，メニューバーの「ランタイム」→「ランタイムのタイプを変更」からハードウェアアクセラレータをGPUに変更する．</li>
   </ul>
 </ul>
+
+## 共同開発ルール
+詳細なルールは [GitHub Wiki](https://github.com/KIIIIT00/B3_Spring/wiki) をご覧ください。
 
 &copy; KIIII
