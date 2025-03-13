@@ -1,0 +1,5 @@
+Epoch 1: 0.1768
+Epoch 2: 0.0496
+Epoch 3: 0.0321
+Epoch 4: 0.0232
+Epoch 5: 0.0160

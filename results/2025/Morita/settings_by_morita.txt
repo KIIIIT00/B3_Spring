@@ -1,0 +1,6 @@
+Device: cuda
+Batch Size: 64
+Learning Rate: 0.002
+Optimizer: adam
+Loss Function: crossentropy
+Epochs: 20
